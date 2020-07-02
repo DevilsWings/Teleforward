@@ -29,7 +29,7 @@
   <h3 align="center">Teleforward</h3>
 
   <p align="center">
-    A script written with [Telethon](https://github.com/LonamiWebs/Telethon) and Telegram API that aims to allow users to automatically forward a group's message to another while preserving username.
+    A script written with [Telethon] (https://github.com/LonamiWebs/Telethon) and Telegram API that aims to allow users to automatically forward a group's message to another while preserving username.
     <br />
     <br />
     <a href="https://github.com/DevilsWings/Teleforward/issues">Report Bug</a>
@@ -121,7 +121,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-DevilsWings - @memosgame(https://twitter.com/memosgame) - memosgame@gmail.com
+DevilsWings - [@memosgame](https://twitter.com/memosgame) - memosgame@gmail.com
 
 Project Link: [https://github.com/DevilsWings/Teleforward](https://github.com/DevilsWings/Teleforward)
 
