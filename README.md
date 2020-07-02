@@ -29,7 +29,7 @@
   <h3 align="center">Teleforward</h3>
 
   <p align="center">
-    A script written with [Telethon] (https://github.com/LonamiWebs/Telethon) and Telegram API that aims to allow users to automatically forward a group's message to another while preserving username.
+    A script written with [Telethon](https://github.com/LonamiWebs/Telethon) and Telegram API that aims to allow users to automatically forward a group's message to another while preserving username.
     <br />
     <br />
     <a href="https://github.com/DevilsWings/Teleforward/issues">Report Bug</a>
@@ -76,7 +76,7 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* python 3.8 & pip3 [Link] (https://www.python.org/downloads/)
+* python 3.8 & pip3 [Link](https://www.python.org/downloads/)
 * telethon
 ```sh
 pip3 install -U telethon --user
