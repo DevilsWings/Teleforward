@@ -26,16 +26,12 @@
   <a href="https://github.com/DevilsWings/Teleforward">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">Teleforward</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
-    <br />
-    <a href="https://github.com/DevilsWings/Teleforward"><strong>Explore the docs »</strong></a>
+    A script written with [Telethon](https://github.com/LonamiWebs/Telethon) and Telegram API that aims to allow users to automatically forward a group's message to another while preserving username.
     <br />
     <br />
-    <a href="https://github.com/DevilsWings/Teleforward">View Demo</a>
-    ·
     <a href="https://github.com/DevilsWings/Teleforward/issues">Report Bug</a>
     ·
     <a href="https://github.com/DevilsWings/Teleforward/issues">Request Feature</a>
@@ -62,7 +58,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-An script written with [Telethon](https://github.com/LonamiWebs/Telethon) and Telegram API that aims to allow users to automatically forward a group's message to another while preserving username.
+It is made to avoid the problem that once an intermediary forwards a message again, the source of forwarding suddenly disappear and provides real-time automatic forwardding of telegram messages.
 
 
 ### Built With
